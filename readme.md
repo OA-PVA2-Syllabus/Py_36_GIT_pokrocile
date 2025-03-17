@@ -13,12 +13,13 @@ Tento repozitář slouží jako ukázka pro práci s GITem a GitHubem. Procvič�
 1. Příprava repozitáře
     - Vytvořte si vlastní fork tohoto repozitáře.
     - Prohlédněte si strukturu projektu, soubory a obsah.
+
 2. Vytvoření větví:
-   - Vytvořte novou větev pojmenovanou podle vzoru feature/nova-funkce a implementujte novou funkci například pro násobení.
+   - Založte nový požadavek na novou funkcionalitu, kterou budete programovat. Funkci popište, vhodně označte štítky a typem a nastavte se jako řešitel.
+   - Vytvořte novou větev pojmenovanou podle vzoru feature/nova-funkce a implementujte novou funkcionalitu.
 
 3. Obsahové změny
-   - Upravte `utils.py` a přidejte funkci nasob(a, b).
-   - Upravte `main.py` a zavolejte novou funkci.
+   - Naprogramujte svou novou funkcionaltiu. Definice funkcí ukládáme výhradně do `utils.py`
    - Vytvořte nový soubor `.gitignore` a přidejte do něj obsah uvedený níže.
 
 4. Uložení změn
@@ -31,7 +32,7 @@ Tento repozitář slouží jako ukázka pro práci s GITem a GitHubem. Procvič�
 
 6. Revize kódu (Code review):
     - Přidělení recenzenta
-      - Přidejte souseda nebo jiného spolužáka jako recenzenta.
+      - Přidejte souseda nebo jiného spolužáka jako recenzenta. Zkontrolujte si, že recentenz není už přiřazen k žádnému úkolu. Každý bude recenzovat jen jednu funkci/pull request.
     - Co kontrolovat
       - Správnost a čitelnost kódu.
       - Dodržení konvencí a best practices.
@@ -47,10 +48,6 @@ Tento repozitář slouží jako ukázka pro práci s GITem a GitHubem. Procvič�
     - Po sloučení změn
       - Aktualizujte svůj lokální repozitář (checkout).
       - můžete smazat větev s novou funkcí. 
-
-8. Issues:
-   - Vytvořte v repozitáři novou chybu s popisem problému nebo nápadem na zlepšení, např. „Přidat funkci dělení“.
-   - Diskutujte/komentujte o ní se spolupracovníky nebo si vytvořte poznámky.
 
 
 
