@@ -21,6 +21,7 @@ Tento repozitář slouží jako ukázka pro práci s GITem a GitHubem. Procvič�
 3. Obsahové změny
    - Naprogramujte svou novou funkcionaltiu. Definice funkcí ukládáme výhradně do `utils.py`
    - Vytvořte nový soubor `.gitignore` a přidejte do něj obsah uvedený níže.
+   - Aktualizujte/Vytvořte soubor readme-prijmeni.md o podrobný popis změn.
 
 4. Uložení změn
     - Proveďte `commit` a `push` změn do vzdáleného repozitáře.
@@ -29,8 +30,9 @@ Tento repozitář slouží jako ukázka pro práci s GITem a GitHubem. Procvič�
 5. Vytvoření Pull Request:
    - Vytvořte Pull Request z nové větve do main a požádejte souseda o code review.
    - Můžete také přidat komentáře k úpravám v rámci Pull Requestu.
+   - V pull requestu bude zahrnut odkaz na související issue a stručný popis změn.
 
-6. Revize kódu (Code review):
+   - Revize kódu (Code review):
     - Přidělení recenzenta
       - Přidejte souseda nebo jiného spolužáka jako recenzenta. Zkontrolujte si, že recentenz není už přiřazen k žádnému úkolu. Každý bude recenzovat jen jednu funkci/pull request.
     - Co kontrolovat
