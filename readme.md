@@ -17,6 +17,7 @@ Tento repozitář slouží jako ukázka pro práci s GITem a GitHubem. Procvič�
 2. Vytvoření větví:
    - Založte nový požadavek na novou funkcionalitu, kterou budete programovat. Funkci popište, vhodně označte štítky a typem a nastavte se jako řešitel.
    - Vytvořte novou větev pojmenovanou podle vzoru feature/nova-funkce a implementujte novou funkcionalitu.
+   - Nezapomeňte, že pracujete celá třída na jediném velkém projektu. Funkce musí být unikátní a neopakovat se.
 
 3. Obsahové změny
    - Naprogramujte svou novou funkcionaltiu. Definice funkcí ukládáme výhradně do `utils.py`
@@ -34,8 +35,8 @@ Tento repozitář slouží jako ukázka pro práci s GITem a GitHubem. Procvič�
 
    - Revize kódu (Code review):
     - Přidělení recenzenta
-      - Přidejte souseda nebo jiného spolužáka jako recenzenta. Zkontrolujte si, že recentenz není už přiřazen k žádnému úkolu. Každý bude recenzovat jen jednu funkci/pull request.
-    - Co kontrolovat
+      - Přidejte souseda nebo jiného spolužáka jako recenzenta. Zkontrolujte si, že recenzent není už přiřazen k žádnému úkolu. Každý bude recenzovat jen jednu funkci/pull request.
+    - Jako recenzent zkontrolujte
       - Správnost a čitelnost kódu.
       - Dodržení konvencí a best practices.
       - Kvalitu komentářů a dokumentace.
